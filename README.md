@@ -1,4 +1,6 @@
 ## 📚 Knowledge
+<i class="fa-brands fa-java"></i>
+
 
 ## 👩‍💻 About Me
 - 🎓 **Education**: I am currently a third-year Software Engineering student at the University of Calgary, with a minor in Mechatronics.
