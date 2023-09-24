@@ -1,5 +1,7 @@
 ## 📚 Knowledge
-<i class="fa-brands fa-java"></i>
+<script src="https://kit.fontawesome.com/9ede1ebce8.js" crossorigin="anonymous"></script>
+- <i class="fa-brands fa-java"></i>
+<i class="fa-brands fa-square-js"></i>
 
 
 ## 👩‍💻 About Me
