@@ -7,6 +7,9 @@
 -Amazon AWS
 -javaScript
 -netlify
+-docker
+-kubernetes
+-ansible
 
 
 ## 👩‍💻 About Me
